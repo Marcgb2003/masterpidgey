@@ -2,7 +2,7 @@
 
 #Commands
 
-![Paso 1: Clone](/masterpidgey_img/paso_1(clone).png)
+![Paso 1: Clone](/masterpidgey_img/paso_1.png)
 ![Paso 2: Commit](/masterpidgey_img/paso_2.png)
 ![Paso 2.1: Commit Message](/masterpidgey_img/paso_2_1.png)
 ![Paso 3: Push](/masterpidgey_img/paso_3.png)
